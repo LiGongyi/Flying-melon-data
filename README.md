@@ -1,4 +1,4 @@
-# Flying-melon-data
+# 飞瓜数据1.0
 Fly melon data into excel
 ## 1、介绍
 	本程序是通过python语言所写的爬虫程序，可以将飞瓜数据中所查看的数据导入excel表格中，绕过其飞瓜数据导入excel表格需要会员的限制。当前版本为1.0，后续将会完善更多功能。
